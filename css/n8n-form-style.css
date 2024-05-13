@@ -7,7 +7,7 @@
  .form {
      position: relative;
      z-index: 1;
-     background: #FFFFFF;
+     background: #f3f9fe;
      max-width: 800px;
      margin: 0 auto;
      padding: 45px;
@@ -29,7 +29,7 @@
      font-family: "Roboto", sans-serif;
      text-transform: uppercase;
      outline: 0;
-     background: #f49f75;
+     background: #f1892a;
      width: 100%;
      border: 0;
      padding: 15px;
@@ -86,7 +86,7 @@
      color: #EF3B3A;
 }
  body {
-     background: #46c3d4;
+     background: #FFFFFF;
      font-family: "Roboto", sans-serif;
      -webkit-font-smoothing: antialiased;
      -moz-osx-font-smoothing: grayscale;
